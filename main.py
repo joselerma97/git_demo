@@ -1,3 +1,6 @@
+# https://fastapi.tiangolo.com/
+# https://fastapi.tiangolo.com/deployment/manually/
+
 from typing import Union
 
 from fastapi import FastAPI
